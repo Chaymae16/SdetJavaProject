@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/src/main/java/class10" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/main/java/class11" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/main/java/class12" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/main/java/class13" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/main/java/class14" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/main/java/class15" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/main/java/class16" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/main/java/class17" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/main/java/class18" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/main/java/class19" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SDETJavaBatch 16" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SDETJavaBatch 16" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
